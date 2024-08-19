@@ -42,16 +42,16 @@ Check out our [demo video](https://drive.google.com/file/d/1frLEfvm0iGhfzl5pEJ8-
 To run Trav locally:
 
 1. Clone this repository:
-   \```bash
+   ```bash
    git clone https://github.com/yourusername/trav.git
-   \```
+   ```
 2. Install the required dependencies:
-   \```bash
+   ```bash
    pip install -r requirements.txt
-   \```
+   ```
 3. Set up your API keys for TripAdvisor, Google, and Firebase in the `.env` file.
 
 4. Run the application:
-   \```bash
+   ```bash
    python app_v1.py
-   \```
+   ```
