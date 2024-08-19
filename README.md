@@ -1,4 +1,5 @@
 # Trav - AI Travel Assistant
+![image]()
 
 Welcome to **Trav**, your personal AI travel assistant designed to help you customize your travel plans in the Bay Area. Whether you're looking for hotel recommendations, restaurant suggestions, or detailed travel itineraries, Trav has you covered.
 
